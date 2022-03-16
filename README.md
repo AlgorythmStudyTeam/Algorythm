@@ -8,6 +8,11 @@
   - 박시현 :
   - 박지한 :
 
+- 예제
+
+  - [18352번: 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
+  - [18243번: Small World Network](https://www.acmicpc.net/problem/18243)
+
 - 과제
 
   - Graph
