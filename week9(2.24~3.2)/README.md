@@ -4,8 +4,8 @@
 
 - TOPIC
 
-  - 김지원 : Souvenir, 프로젝트
-  - 박시현 : Priority Queue, Heap
+  - 김지원 : 
+  - 박시현 : 
   - 박지한 : Segment Tree
 
 - 과제
